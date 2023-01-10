@@ -1,0 +1,129 @@
+body{
+    color: white;
+    background: url(up.jpg);
+    background-size: 300px 100px;
+    background-attachment: scroll;
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.subsribe{
+    background-color: 92E4F6;
+}
+.sub{
+    color: white;
+    background-color: red;
+    border: 50%;
+    border: red;
+    width: 105px;
+    height: 40px;
+    border-radius: 4.5%;
+    display: -webkit-box;
+    margin-left: 80%;
+    text-align: center;
+    align-items: center;
+    font-family: cursive;
+    font-size: medium;
+}
+.icon{
+    border: 50%;
+}
+.left{
+      text-align: center;
+      align-items: center;
+}
+.cent{
+    text-align: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+.title{
+    color: #00bfff;
+    text-align: center;
+    align-items: center;
+    font-family: cursive;
+}
+.head{
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(83, 7, 237);
+    text-align: center;
+    font-family: cursive;
+}
+h1{
+    font-size: 55px;
+    text-align: center;
+    
+
+}
+.preferences{
+    text-align: center;
+    align-items: center;
+}
+h2{
+    color: rgb(83, 7, 237);
+    text-align: center;
+    font-size: 40px;
+}
+h3{
+    text-align: center;
+    align-items: center;
+    font-size: 55px;
+}
+button{
+    text-align: center;
+    align-items: center;
+    width: 300px;
+    height: 70px;
+    background-color: rgb(126, 155, 174);
+    border:  rgb(126, 155, 174);
+}
+.gihub{
+    text-align: center;
+    align-items: center;
+}
+.Email{
+    text-align: center;
+    align-items: center;
+}
+.Twitter{
+    text-align: center;
+    align-items: center;
+}
+.LinkedIn{
+    text-align: center;
+    align-items: center;
+}
+img{
+    border-radius: 50%;
+    align-items: right;
+    position: right;
+    display: -webkit-box;
+    margin-left: auto;
+    background-attachment: fixed;
+    float: right;
+}
+.contained{
+    display: -webkit-box;
+    margin-left: auto;
+}
+.sect{
+    text-align: center;
+    align-items: center;
+    font-size: 40px;
+}
+.skills{
+    font-size: large;
+    font-weight: 900;
+    text-align: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.more{
+    text-align: center;
+    font-size: larger;
+}
+.down{
+    font-size: 15px;
+}
